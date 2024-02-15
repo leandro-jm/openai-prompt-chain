@@ -1,4 +1,4 @@
-# openai-prompt-chain
+# Open AI Prompt
 
 Demo using GPT.
 
